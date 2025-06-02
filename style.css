@@ -54,11 +54,14 @@ section.sobre{
    position: absolute;
     left: 510px;
     top: 200px;
+   
 }
 .social img{
     width: 30px;
     display: block;
     margin: 20px 0;
+ 
+
 }
 .texto{
     margin-top: 100px ;
